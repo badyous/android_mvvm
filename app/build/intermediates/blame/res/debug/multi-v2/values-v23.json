@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\by68ba1n\\Documents\\Projet_NexusOne\\Android\\workspace\\nexusOne\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "/Users/by68ba1n/Documents/EDF/workspace/templateInitProjectMVVM/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\by68ba1n\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\62488edf2f9c1489639ad47d79ec433d\\res\\values-v23\\values-v23.xml",
+                    "source": "/Users/by68ba1n/.gradle/caches/transforms-2/files-2.1/e8805b11e5bc99f763ae0d2fe9dc0d1b/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

@@ -1,4 +1,4 @@
-package fr.edf.nexusone;
+package io.digiteam.mvvm;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package fr.edf.nexusone;
+package io.digiteam.mvvm;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("fr.edf.nexusone", appContext.getPackageName());
+        assertEquals("io.digiteam.mvvm", appContext.getPackageName());
     }
 }

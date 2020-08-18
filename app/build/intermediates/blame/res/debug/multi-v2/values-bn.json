@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\by68ba1n\\Documents\\Projet_NexusOne\\Android\\workspace\\nexusOne\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+            "outputFile": "/Users/by68ba1n/Documents/EDF/workspace/templateInitProjectMVVM/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\by68ba1n\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\62488edf2f9c1489639ad47d79ec433d\\res\\values-bn\\values-bn.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,326,432,526,631,760,838,916,1003,1113,1221,1320,1430,1536,1649,1814,1919",
-                        "endColumns": "108,111,105,93,104,128,77,77,86,109,107,98,109,105,112,164,104,81",
-                        "endOffsets": "209,321,427,521,626,755,833,911,998,1108,1216,1315,1425,1531,1644,1809,1914,1996"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\by68ba1n\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\6741a02adcdd19d9564c60eaed84ccd2\\res\\values-bn\\values-bn.xml",
+                    "source": "/Users/by68ba1n/.gradle/caches/transforms-2/files-2.1/f37d2be9e041feb491a10356dbbe5100/res/values-bn/values-bn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "2001",
                         "endColumns": "100",
                         "endOffsets": "2097"
+                    }
+                },
+                {
+                    "source": "/Users/by68ba1n/.gradle/caches/transforms-2/files-2.1/e8805b11e5bc99f763ae0d2fe9dc0d1b/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,326,432,526,631,760,838,916,1003,1113,1221,1320,1430,1536,1649,1814,1919",
+                        "endColumns": "108,111,105,93,104,128,77,77,86,109,107,98,109,105,112,164,104,81",
+                        "endOffsets": "209,321,427,521,626,755,833,911,998,1108,1216,1315,1425,1531,1644,1809,1914,1996"
                     }
                 }
             ]
